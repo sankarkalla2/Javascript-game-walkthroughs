@@ -36,9 +36,7 @@ function randomBox() {
 
 randomBox();
 
-// let
-// addEventListener("keydown", function() {
+document.addEventListener("keydown", function() {
   
-// })
-
+})
 
